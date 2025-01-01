@@ -7,7 +7,7 @@
 
 **'Desenvolvedor FullStack?'**
 
-Me chamo Wallan Rafael, tenho 25 anos e sou natural de São Paulo. Atualmente, estou estudando programação e desenvolvimento Web. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu Instagram "[ Wallan Rafael](https://www.instagram.com/wallanrafael_/), onde mostro meus trabalhos junto ao da minha empresa. 
+Me chamo Wallan Rafael, tenho 25 anos e sou natural de São Paulo. Atualmente, estou estudando programação e desenvolvimento Web. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu Instagram [ Wallan Rafael](https://www.instagram.com/wallanrafael_/), onde mostro meus trabalhos junto ao da minha empresa. 
 Também tenho uma empresa de Marketing Digital, que agora fez a integração de mais um serviço, a Software House.. Conseguimos entregar tudo o que a de melhor em tecnologia e opções digitais para os clientes.
 
 ---
