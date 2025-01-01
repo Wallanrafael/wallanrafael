@@ -35,8 +35,6 @@ Também tenho uma empresa de Marketing Digital, que agora fez a integração de 
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<br/>
-
 ### 📊 Estatísticas ###
 
 <p>
